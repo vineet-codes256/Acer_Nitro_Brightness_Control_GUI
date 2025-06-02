@@ -3,7 +3,10 @@
 A modern Python GUI utility for controlling monitor settings (brightness, contrast, color, input source, audio, and more) via DDC/CI on Linux.  
 Built with [ttkbootstrap](https://ttkbootstrap.readthedocs.io/) and [ddcutil](https://www.ddcutil.com/).
 
-Screenshots:
+## Screenshot:  
+
+![Screenshot from 2025-06-02 23-26-37](https://github.com/user-attachments/assets/b772cc8e-2722-47b4-bf7d-d2e4da3f9e8c)
+
 
 ---
 
